@@ -1,1 +1,1 @@
-My solutions to FCC projects.
+### This is a container for the projects I made while learning in [freeCodeCamp](https://www.freecodecamp.org)
